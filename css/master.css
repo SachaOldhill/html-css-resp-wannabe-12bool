@@ -9,7 +9,7 @@ div{
 .row{
 text-align: center;
 }
-.container-grey{
+.grey{
 background-color:  #f9f9f9;
 }
 @media screen and (max-width:768px){
